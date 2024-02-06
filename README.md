@@ -41,6 +41,12 @@ AUR:
 ```
 yay -S autotiling catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 ```
+
+```
+paru -S autotiling catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
+
+```
+
 Fedora: 
 ```
 coming soon
