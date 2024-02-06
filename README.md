@@ -23,14 +23,13 @@ AUR:
 ```
 yay -S autotiling catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 ```
-
 ```
 paru -S autotiling catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
-
 ```
 
 # Fedora: 
 FONTS: 
 ```
 sudo dnf install mozilla-fira-mono-fonts mozilla-fira-fonts-common mozilla-fira-sans-fonts 
+
 ```
