@@ -37,7 +37,7 @@ libva-mesa-driver mesa-vdpau lib32-vulkan-radeon
 ```
 vulkan-icd-loader lib32-vulkan-icd-loader
 ```
-
+AUR: 
 ```
 yay -S autotiling catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 ```
