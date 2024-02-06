@@ -3,13 +3,13 @@ Arch:
 ``` 
 sudo pacman -S gsfonts sdl_ttf ttf-bitstream-vera ttf-dejavu ttf-liberation xorg-fonts-type1
 ```
+```
+sudo pacman -S ttf-fira-code ttf-fira-sans ttf-fira-mono ttf-font-awesome ttf-joypixels ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common noto-fonts noto-fonts-cjk
 
 ```
-sudo pacman -S i3 alacritty polybar lxappearance 
-```
 
 ```
-materia-gtk-theme lxsession thunar nitrogen sxiv 
+sudo pacman -S i3 alacritty polybar lxappearance materia-gtk-theme lxsession thunar nitrogen sxiv 
 ```
 
 ```
@@ -49,5 +49,5 @@ paru -S autotiling catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 
 Fedora: 
 ```
-coming soon
+sudo dnf install 
 ```
