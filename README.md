@@ -1,5 +1,4 @@
-# Linux Packages 
-Arch:
+# Arch:
 FONTS: 
 ``` 
 sudo pacman -S gsfonts sdl_ttf ttf-bitstream-vera ttf-dejavu ttf-liberation xorg-fonts-type1
@@ -30,7 +29,8 @@ paru -S autotiling catppuccin-gtk-theme-frappe mcmojave-cursors matcha-gtk-theme
 
 ```
 
-Fedora: 
+# Fedora: 
+FONTS: 
 ```
-sudo dnf install 
+sudo dnf install mozilla-fira-mono-fonts mozilla-fira-fonts-common mozilla-fira-sans-fonts 
 ```
