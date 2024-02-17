@@ -31,3 +31,7 @@ FONTS:
 ```
 sudo dnf install fontawesome-fonts-all urw-base35-fonts SDL_ttf bitstream-vera-fonts-all dejavu-fonts-all liberation-fonts xorg-x11-fonts-Type1 mozilla-fira-mono-fonts mozilla-fira-fonts-common mozilla-fira-sans-fonts fira-code-fonts google-noto-cjk-fonts google-noto-fonts-common google-noto-sans-cjk-vf-fonts google-noto-serif-cjk-vf-fonts
 ```
+RPM FUSION: 
+```
+sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+```
