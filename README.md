@@ -10,6 +10,10 @@ Window Manager:
 ```
 sudo pacman -S i3 alacritty polybar lxappearance materia-gtk-theme lxsession thunar nitrogen sxiv python-psutil papirus-icon-theme arandr dunst picom rofi
 ```
+Python CPU script: 
+```
+pipx install pustil
+```
 Nvidia Driver:
 ```
 sudo pacman -S nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
@@ -38,6 +42,10 @@ sudo dnf install fontawesome-fonts-all urw-base35-fonts SDL_ttf bitstream-vera-f
 WINDOW MANAGER: 
 ```
 sudo dnf install XXX (coming soon) 
+```
+Python CPU:
+```
+pip3 install psutil
 ```
 AMD DRIVER: 
 ```
